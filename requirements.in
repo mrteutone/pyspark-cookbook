@@ -1,0 +1,5 @@
+pip-tools
+pyspark==3.0.0
+pypandoc        # pyspark dependency
+https://github.com/zero323/pyspark-stubs/archive/3.0.0.dev8.tar.gz
+pandas          # numpy is needed for spark.ml
